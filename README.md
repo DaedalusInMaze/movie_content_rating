@@ -8,3 +8,7 @@ The project used the Movie-Genre-Classifier (Repo: https://github.com/davideiaco
 
 ## Data source
 The original dataset we worked upon is retrieved from Kaggle: https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset.
+
+## Contributors
+* [Curtis Zhuang](https://github.com/DaedalusInMaze)
+* [Ziyi Zheng](https://github.com/AllizDog)
